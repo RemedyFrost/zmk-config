@@ -1,0 +1,6 @@
+if SHIELD_SPLITPTERO
+
+config ZMK_KEYBOARD_NAME
+    default "SplitPtero"
+
+endif
